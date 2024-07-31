@@ -6532,43 +6532,6 @@
               <bucket>&quot;[federated.0rgqgvr08oibch1dpubde0wcinoz].[sum:Calculation_258675545308463108:qk]&quot;</bucket>
             </map>
           </encoding>
-          <encoding attr='color' field='[none:Age (bin):ok]' type='palette'>
-            <map to='#24693d'>
-              <bucket>7</bucket>
-            </map>
-            <map to='#27763d'>
-              <bucket>6</bucket>
-            </map>
-            <map to='#49964f'>
-              <bucket>5</bucket>
-            </map>
-            <map to='#59a253'>
-              <bucket>4</bucket>
-            </map>
-            <map to='#61a956'>
-              <bucket>3</bucket>
-            </map>
-            <map to='#75bc69'>
-              <bucket>2</bucket>
-            </map>
-            <map to='#b3e0a6'>
-              <bucket>1</bucket>
-            </map>
-          </encoding>
-          <encoding attr='color' field='[none:Region:nk]' type='palette'>
-            <map to='#24693d'>
-              <bucket>&quot;Midwest&quot;</bucket>
-            </map>
-            <map to='#6eb663'>
-              <bucket>&quot;Northeast&quot;</bucket>
-            </map>
-            <map to='#8ed07f'>
-              <bucket>&quot;South&quot;</bucket>
-            </map>
-            <map to='#b3e0a6'>
-              <bucket>&quot;West&quot;</bucket>
-            </map>
-          </encoding>
           <encoding attr='color' field='[none:category:nk]' type='palette'>
             <map to='#499894'>
               <bucket>&quot;Men&apos;s Fashion&quot;</bucket>
@@ -6614,6 +6577,43 @@
             </map>
             <map to='#ffbe7d'>
               <bucket>&quot;Computing&quot;</bucket>
+            </map>
+          </encoding>
+          <encoding attr='color' field='[none:Age (bin):ok]' type='palette'>
+            <map to='#24693d'>
+              <bucket>7</bucket>
+            </map>
+            <map to='#27763d'>
+              <bucket>6</bucket>
+            </map>
+            <map to='#49964f'>
+              <bucket>5</bucket>
+            </map>
+            <map to='#59a253'>
+              <bucket>4</bucket>
+            </map>
+            <map to='#61a956'>
+              <bucket>3</bucket>
+            </map>
+            <map to='#75bc69'>
+              <bucket>2</bucket>
+            </map>
+            <map to='#b3e0a6'>
+              <bucket>1</bucket>
+            </map>
+          </encoding>
+          <encoding attr='color' field='[none:Region:nk]' type='palette'>
+            <map to='#24693d'>
+              <bucket>&quot;Midwest&quot;</bucket>
+            </map>
+            <map to='#6eb663'>
+              <bucket>&quot;Northeast&quot;</bucket>
+            </map>
+            <map to='#8ed07f'>
+              <bucket>&quot;South&quot;</bucket>
+            </map>
+            <map to='#b3e0a6'>
+              <bucket>&quot;West&quot;</bucket>
             </map>
           </encoding>
         </style-rule>
@@ -7451,8 +7451,8 @@
         <devicelayout auto-generated='true' name='Phone'>
           <size maxheight='2000' minheight='2000' sizing-mode='vscroll' />
           <zones>
-            <zone h='100000' id='30' type-v2='layout-basic' w='100000' x='0' y='0'>
-              <zone h='98222' id='29' param='vert' type-v2='layout-flow' w='99158' x='421' y='889'>
+            <zone h='100000' id='32' type-v2='layout-basic' w='100000' x='0' y='0'>
+              <zone h='98222' id='31' param='vert' type-v2='layout-flow' w='99158' x='421' y='889'>
                 <zone forceUpdate='true' h='14778' id='16' type-v2='text' w='16053' x='5105' y='2778'>
                   <formatted-text>
                     <run fontcolor='#44793b' fontname='Times New Roman' fontsize='36'>Customer </run>
